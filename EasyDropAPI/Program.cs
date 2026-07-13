@@ -20,9 +20,14 @@ builder.Services.AddCors(options =>
     });
 });
 
-// Get connection string from environment or configuration
-var connectionString = Environment.GetEnvironmentVariable("ConnectionStrings__DefaultConnection") 
+// Get connection string - try DATABASE_URL first (Railway), then config
+var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL") 
     ?? builder.Configuration.GetConnectionString("DefaultConnection");
+
+if (string.IsNullOrEmpty(connectionString))
+{
+    throw new InvalidOperationException("Connection string 'DefaultConnection' or DATABASE_URL not found.");
+}
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
