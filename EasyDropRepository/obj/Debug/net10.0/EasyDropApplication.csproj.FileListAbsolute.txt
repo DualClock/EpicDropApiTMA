@@ -13,3 +13,4 @@ C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropRepository\bin\Debug\net10.0\Ea
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropRepository\bin\Debug\net10.0\EasyDropDomain.pdb
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropRepository\obj\Debug\net10.0\EasyDropApplication.csproj.AssemblyReference.cache
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropRepository\obj\Debug\net10.0\EasyDrop.C56C5399.Up2Date
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropRepository\obj\Debug\net10.0\EasyDropApplication.sourcelink.json

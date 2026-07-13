@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyDropAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb21d572f2d4f5fd57c5abb1e71971c76216beae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8233163a2a4e0b50067a848e42a15d26575e7b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyDropAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyDropAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

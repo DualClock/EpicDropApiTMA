@@ -129,4 +129,4 @@ C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropAPI\bin\Debug\net10.0\EasyDropA
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropAPI\obj\Debug\net10.0\EasyDropAPI.sourcelink.json

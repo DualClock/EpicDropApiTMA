@@ -48,3 +48,20 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+// Автоматическое применение миграций при запуске
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<AppDbContext>();
+        Console.WriteLine("Applying migrations...");
+        context.Database.Migrate();
+        Console.WriteLine("✅ Migrations applied successfully!");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"❌ Migration error: {ex.Message}");
+        throw; // Останавливаем приложение, если миграции не применились
+    }
+}

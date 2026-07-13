@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\.dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\.dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropinfrastructure\\externalapi\\epicgamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|solutionrelative:easydropinfrastructure\\externalapi\\epicgamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropinfrastructure\\externalapi\\epicgamesdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|solutionrelative:easydropinfrastructure\\externalapi\\epicgamesdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropinfrastructure\\externalapi\\isthereanydealdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|solutionrelative:easydropinfrastructure\\externalapi\\isthereanydealdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropinfrastructure\\externalapi\\isthereanydealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|solutionrelative:easydropinfrastructure\\externalapi\\isthereanydealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropinfrastructure\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|solutionrelative:easydropinfrastructure\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC10AA6B-4B3C-1494-521B-C941B8F6667C}|EasyDropDomain\\EasyDropDomain.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropdomain\\models\\gamesteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC10AA6B-4B3C-1494-521B-C941B8F6667C}|EasyDropDomain\\EasyDropDomain.csproj|solutionrelative:easydropdomain\\models\\gamesteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC10AA6B-4B3C-1494-521B-C941B8F6667C}|EasyDropDomain\\EasyDropDomain.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropdomain\\models\\gameepic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC10AA6B-4B3C-1494-521B-C941B8F6667C}|EasyDropDomain\\EasyDropDomain.csproj|solutionrelative:easydropdomain\\models\\gameepic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D892-B4E4-4112-D716-FF28968D1C6B}|EasyDropRepository\\EasyDropApplication.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydroprepository\\interfaces\\igiveawayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE6D892-B4E4-4112-D716-FF28968D1C6B}|EasyDropRepository\\EasyDropApplication.csproj|solutionrelative:easydroprepository\\interfaces\\igiveawayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\controllers\\giveawaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\controllers\\giveawaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\easydropapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\easydropapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D892-B4E4-4112-D716-FF28968D1C6B}|EasyDropRepository\\EasyDropApplication.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydroprepository\\easydropapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DE6D892-B4E4-4112-D716-FF28968D1C6B}|EasyDropRepository\\EasyDropApplication.csproj|solutionrelative:easydroprepository\\easydropapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropinfrastructure\\easydropinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|solutionrelative:easydropinfrastructure\\easydropinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC10AA6B-4B3C-1494-521B-C941B8F6667C}|EasyDropDomain\\EasyDropDomain.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropdomain\\easydropdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC10AA6B-4B3C-1494-521B-C941B8F6667C}|EasyDropDomain\\EasyDropDomain.csproj|solutionrelative:easydropdomain\\easydropdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\.Dockerfile",
+              "RelativeDocumentMoniker": "EasyDropAPI\\.Dockerfile",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\.Dockerfile",
+              "RelativeToolTip": "EasyDropAPI\\.Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-13T22:51:47.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\.gitignore",
+              "RelativeDocumentMoniker": "EasyDropAPI\\.gitignore",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\.gitignore",
+              "RelativeToolTip": "EasyDropAPI\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-13T22:12:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EpicGamesDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\EpicGamesDtos.cs",
+              "RelativeDocumentMoniker": "EasyDropInfrastructure\\ExternalApi\\EpicGamesDtos.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\EpicGamesDtos.cs",
+              "RelativeToolTip": "EasyDropInfrastructure\\ExternalApi\\EpicGamesDtos.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T20:20:39.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameEpic.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\Models\\GameEpic.cs",
+              "RelativeDocumentMoniker": "EasyDropDomain\\Models\\GameEpic.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\Models\\GameEpic.cs",
+              "RelativeToolTip": "EasyDropDomain\\Models\\GameEpic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T20:19:13.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EasyDropAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\Program.cs",
+              "RelativeToolTip": "EasyDropAPI\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:15:47.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameSteam.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\Models\\GameSteam.cs",
+              "RelativeDocumentMoniker": "EasyDropDomain\\Models\\GameSteam.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\Models\\GameSteam.cs",
+              "RelativeToolTip": "EasyDropDomain\\Models\\GameSteam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:17:06.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\DataBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EasyDropInfrastructure\\DataBase\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\DataBase\\AppDbContext.cs",
+              "RelativeToolTip": "EasyDropInfrastructure\\DataBase\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:35:01.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGiveawayService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropRepository\\Interfaces\\IGiveawayService.cs",
+              "RelativeDocumentMoniker": "EasyDropRepository\\Interfaces\\IGiveawayService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropRepository\\Interfaces\\IGiveawayService.cs",
+              "RelativeToolTip": "EasyDropRepository\\Interfaces\\IGiveawayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T16:08:41.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EpicGamesService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\EpicGamesService.cs",
+              "RelativeDocumentMoniker": "EasyDropInfrastructure\\ExternalApi\\EpicGamesService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\EpicGamesService.cs",
+              "RelativeToolTip": "EasyDropInfrastructure\\ExternalApi\\EpicGamesService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T20:34:10.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IsThereAnyDealService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealService.cs",
+              "RelativeDocumentMoniker": "EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealService.cs",
+              "RelativeToolTip": "EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T16:09:18.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IsThereAnyDealDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealDtos.cs",
+              "RelativeDocumentMoniker": "EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealDtos.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealDtos.cs",
+              "RelativeToolTip": "EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealDtos.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T16:07:54.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GiveawayController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\Controllers\\GiveawayController.cs",
+              "RelativeDocumentMoniker": "EasyDropAPI\\Controllers\\GiveawayController.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\Controllers\\GiveawayController.cs",
+              "RelativeToolTip": "EasyDropAPI\\Controllers\\GiveawayController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAmwPYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T20:41:12.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EasyDropAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\EasyDropAPI.csproj",
+              "RelativeDocumentMoniker": "EasyDropAPI\\EasyDropAPI.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\EasyDropAPI.csproj",
+              "RelativeToolTip": "EasyDropAPI\\EasyDropAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T14:10:55.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EasyDropAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\appsettings.json",
+              "RelativeToolTip": "EasyDropAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T14:08:09.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EasyDropApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropRepository\\EasyDropApplication.csproj",
+              "RelativeDocumentMoniker": "EasyDropRepository\\EasyDropApplication.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropRepository\\EasyDropApplication.csproj",
+              "RelativeToolTip": "EasyDropRepository\\EasyDropApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T16:08:23.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EasyDropInfrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\EasyDropInfrastructure.csproj",
+              "RelativeDocumentMoniker": "EasyDropInfrastructure\\EasyDropInfrastructure.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\EasyDropInfrastructure.csproj",
+              "RelativeToolTip": "EasyDropInfrastructure\\EasyDropInfrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T13:32:47.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EasyDropDomain.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\EasyDropDomain.csproj",
+              "RelativeDocumentMoniker": "EasyDropDomain\\EasyDropDomain.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\EasyDropDomain.csproj",
+              "RelativeToolTip": "EasyDropDomain\\EasyDropDomain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T13:15:56.215Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 496,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

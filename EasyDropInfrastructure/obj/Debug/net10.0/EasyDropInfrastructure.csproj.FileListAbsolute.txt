@@ -17,3 +17,4 @@ C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropInfrastructure\obj\Debug\net10.
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropInfrastructure\obj\Debug\net10.0\ref\EasyDropInfrastructure.dll
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropInfrastructure\bin\Debug\net10.0\EasyDropApplication.dll
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropInfrastructure\bin\Debug\net10.0\EasyDropApplication.pdb
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropInfrastructure\obj\Debug\net10.0\EasyDropInfrastructure.sourcelink.json

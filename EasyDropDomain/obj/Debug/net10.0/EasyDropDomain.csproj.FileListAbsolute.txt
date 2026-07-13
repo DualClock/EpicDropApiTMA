@@ -9,3 +9,4 @@ C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDr
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\refint\EasyDropDomain.dll
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDropDomain.pdb
 C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\ref\EasyDropDomain.dll
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDropDomain.sourcelink.json

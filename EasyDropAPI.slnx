@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EasyDropAPI/EasyDropAPI.csproj" />
+  <Project Path="EasyDropDomain/EasyDropDomain.csproj" />
+  <Project Path="EasyDropInfrastructure/EasyDropInfrastructure.csproj" />
+  <Project Path="EasyDropRepository/EasyDropApplication.csproj" />
+</Solution>
