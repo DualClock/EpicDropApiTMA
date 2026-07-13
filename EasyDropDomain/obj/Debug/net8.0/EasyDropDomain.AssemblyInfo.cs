@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyDropDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a485407cbb8aed00942d8ea4248144c4397b6dbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03d8b9b826cc85c21abcc0155f8d2914623cda3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyDropDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyDropDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

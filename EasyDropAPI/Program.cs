@@ -2,6 +2,7 @@ using EasyDropApplication.Interfaces;
 using EasyDropInfrastructure.DataBase;
 using EasyDropInfrastructure.ExternalApi;
 using Microsoft.EntityFrameworkCore;
+using EasyDropAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -52,7 +53,7 @@ builder.Services.AddHttpClient<IGiveawayService, IsThereAnyDealService>(client =
 });
 
 builder.Services.AddHttpClient<IEpicGamesService, EpicGamesService>();
-
+builder.Services.AddHostedService<GiveawayBackgroundService>();
 var app = builder.Build();
 
 // 4. АВТОМАТИЧЕСКОЕ ПРИМЕНЕНИЕ МИГРАЦИЙ (Строго ПОСЛЕ builder.Build() и ДО app.Run())
@@ -74,11 +75,13 @@ using (var scope = app.Services.CreateScope())
 }
 
 // 5. MIDDLEWARE PIPELINE
-if (app.Environment.IsDevelopment())
+// Включаем Swagger везде (и для Production на Railway)
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "EasyDrop API V1");
+    c.RoutePrefix = string.Empty; // Swagger открывается по корню сайта
+});
 
 // CORS должен быть ДО UseAuthorization и UseEndpoints/MapControllers
 app.UseCors("AllowAll");
