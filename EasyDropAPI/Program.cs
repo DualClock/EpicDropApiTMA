@@ -20,8 +20,12 @@ builder.Services.AddCors(options =>
     });
 });
 
+// Get connection string from environment or configuration
+var connectionString = Environment.GetEnvironmentVariable("ConnectionStrings__DefaultConnection") 
+    ?? builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(connectionString));
 
 builder.Services.AddHttpClient<IGiveawayService, IsThereAnyDealService>(client =>
 {
