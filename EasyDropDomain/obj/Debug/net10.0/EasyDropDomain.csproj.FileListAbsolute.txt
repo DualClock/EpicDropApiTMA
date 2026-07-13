@@ -1,0 +1,11 @@
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDropDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDropDomain.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDropDomain.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDropDomain.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\bin\Debug\net10.0\EasyDropDomain.deps.json
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\bin\Debug\net10.0\EasyDropDomain.dll
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\bin\Debug\net10.0\EasyDropDomain.pdb
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDropDomain.dll
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\refint\EasyDropDomain.dll
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\EasyDropDomain.pdb
+C:\Users\Nikita\source\repos\EasyDropAPI\EasyDropDomain\obj\Debug\net10.0\ref\EasyDropDomain.dll

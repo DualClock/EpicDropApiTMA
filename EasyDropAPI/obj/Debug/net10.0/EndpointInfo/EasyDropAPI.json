@@ -1,0 +1,87 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "EasyDropAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Giveaway/steam/all": {
+      "get": {
+        "tags": [
+          "Giveaway"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Giveaway/steam/fetch": {
+      "post": {
+        "tags": [
+          "Giveaway"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Giveaway/epic/all": {
+      "get": {
+        "tags": [
+          "Giveaway"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Giveaway/epic/fetch": {
+      "post": {
+        "tags": [
+          "Giveaway"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Giveaway/all": {
+      "get": {
+        "tags": [
+          "Giveaway"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Giveaway/active/count": {
+      "get": {
+        "tags": [
+          "Giveaway"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { },
+  "tags": [
+    {
+      "name": "Giveaway"
+    }
+  ]
+}

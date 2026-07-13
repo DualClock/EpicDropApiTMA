@@ -1,0 +1,62 @@
+[
+  {
+    "ContainingType": "EasyDropAPI.Controllers.GiveawayController",
+    "Method": "GetActiveGiveawaysCount",
+    "RelativePath": "api/Giveaway/active/count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyDropAPI.Controllers.GiveawayController",
+    "Method": "GetAllGiveaways",
+    "RelativePath": "api/Giveaway/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyDropAPI.Controllers.GiveawayController",
+    "Method": "GetAllEpicGames",
+    "RelativePath": "api/Giveaway/epic/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyDropAPI.Controllers.GiveawayController",
+    "Method": "FetchAndSaveEpicGames",
+    "RelativePath": "api/Giveaway/epic/fetch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyDropAPI.Controllers.GiveawayController",
+    "Method": "GetAllSteamGiveaways",
+    "RelativePath": "api/Giveaway/steam/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyDropAPI.Controllers.GiveawayController",
+    "Method": "FetchAndSaveSteamGiveaways",
+    "RelativePath": "api/Giveaway/steam/fetch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

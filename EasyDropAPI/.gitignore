@@ -1,0 +1,5 @@
+﻿# Create a .gitignore file if it doesn't exist
+echo ".vs/" >> .gitignore
+echo "*.slnx" >> .gitignore
+echo "*/bin/" >> .gitignore
+echo "*/obj/" >> .gitignore
