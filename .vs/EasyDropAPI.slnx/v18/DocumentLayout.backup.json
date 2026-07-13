@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\.dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\.dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AB0CD519-CF18-7DAA-A8FF-754EB138C710}|EasyDropAPI\\EasyDropAPI.csproj|solutionrelative:easydropapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C18C8631-BCD0-4010-3100-007A0F8A391D}|EasyDropInfrastructure\\EasyDropInfrastructure.csproj|c:\\users\\nikita\\source\\repos\\easydropapi\\easydropinfrastructure\\externalapi\\epicgamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\.Dockerfile",
+              "RelativeDocumentMoniker": "EasyDropAPI\\.Dockerfile",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\.Dockerfile",
+              "RelativeToolTip": "EasyDropAPI\\.Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-13T22:51:47.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\.gitignore",
               "RelativeDocumentMoniker": "EasyDropAPI\\.gitignore",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EpicGamesDtos.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\EpicGamesDtos.cs",
               "RelativeDocumentMoniker": "EasyDropInfrastructure\\ExternalApi\\EpicGamesDtos.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GameEpic.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\Models\\GameEpic.cs",
               "RelativeDocumentMoniker": "EasyDropDomain\\Models\\GameEpic.cs",
@@ -133,14 +150,14 @@
               "RelativeDocumentMoniker": "EasyDropAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\Program.cs",
               "RelativeToolTip": "EasyDropAPI\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-09T13:15:47.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GameSteam.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\Models\\GameSteam.cs",
               "RelativeDocumentMoniker": "EasyDropDomain\\Models\\GameSteam.cs",
@@ -152,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\DataBase\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EasyDropInfrastructure\\DataBase\\AppDbContext.cs",
@@ -164,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IGiveawayService.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropRepository\\Interfaces\\IGiveawayService.cs",
               "RelativeDocumentMoniker": "EasyDropRepository\\Interfaces\\IGiveawayService.cs",
@@ -176,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EpicGamesService.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\EpicGamesService.cs",
               "RelativeDocumentMoniker": "EasyDropInfrastructure\\ExternalApi\\EpicGamesService.cs",
@@ -188,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IsThereAnyDealService.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealService.cs",
               "RelativeDocumentMoniker": "EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealService.cs",
@@ -200,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IsThereAnyDealDtos.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealDtos.cs",
               "RelativeDocumentMoniker": "EasyDropInfrastructure\\ExternalApi\\IsThereAnyDealDtos.cs",
@@ -212,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "GiveawayController.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\Controllers\\GiveawayController.cs",
               "RelativeDocumentMoniker": "EasyDropAPI\\Controllers\\GiveawayController.cs",
@@ -224,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EasyDropAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\EasyDropAPI.csproj",
               "RelativeDocumentMoniker": "EasyDropAPI\\EasyDropAPI.csproj",
@@ -236,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EasyDropAPI\\appsettings.json",
@@ -248,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EasyDropApplication.csproj",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropRepository\\EasyDropApplication.csproj",
               "RelativeDocumentMoniker": "EasyDropRepository\\EasyDropApplication.csproj",
@@ -260,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "EasyDropInfrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropInfrastructure\\EasyDropInfrastructure.csproj",
               "RelativeDocumentMoniker": "EasyDropInfrastructure\\EasyDropInfrastructure.csproj",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "EasyDropDomain.csproj",
               "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\EasyDropAPI\\EasyDropDomain\\EasyDropDomain.csproj",
               "RelativeDocumentMoniker": "EasyDropDomain\\EasyDropDomain.csproj",

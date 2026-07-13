@@ -4,5 +4,5 @@ namespace EasyDropApplication.Interfaces;
 
 public interface IGiveawayService
 {
-    Task<List<GameSteam>> GetActiveGiveawaysAsync();
+    Task<IEnumerable<GameSteam>> GetFreeGamesAsync();
 }
