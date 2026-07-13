@@ -20,13 +20,25 @@ builder.Services.AddCors(options =>
     });
 });
 
-// Get connection string - try DATABASE_URL first (Railway), then config
-var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL") 
-    ?? builder.Configuration.GetConnectionString("DefaultConnection");
+// Build connection string from Railway environment variables
+// Railway Postgres provides: PGHOST, PGPORT, PGUSER, PGPASSWORD, PGDATABASE
+var host = Environment.GetEnvironmentVariable("PGHOST") ?? "localhost";
+var port = Environment.GetEnvironmentVariable("PGPORT") ?? "5432";
+var user = Environment.GetEnvironmentVariable("PGUSER") ?? "postgres";
+var password = Environment.GetEnvironmentVariable("PGPASSWORD") ?? "";
+var database = Environment.GetEnvironmentVariable("PGDATABASE") ?? "EasyDropDb";
+
+var connectionString = $"Host={host};Port={port};Username={user};Password={password};Database={database};";
+
+// Fallback to config if env vars not set
+if (string.IsNullOrWhiteSpace(user) || string.IsNullOrWhiteSpace(password))
+{
+    connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+}
 
 if (string.IsNullOrEmpty(connectionString))
 {
-    throw new InvalidOperationException("Connection string 'DefaultConnection' or DATABASE_URL not found.");
+    throw new InvalidOperationException("Connection string not found in configuration or environment variables.");
 }
 
 builder.Services.AddDbContext<AppDbContext>(options =>
