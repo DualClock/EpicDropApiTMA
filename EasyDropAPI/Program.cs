@@ -19,9 +19,13 @@ builder.Services.AddCors(options =>
               .AllowAnyMethod();
     });
 });
+// 1. Пытаемся получить строку подключения из переменных окружения Railway (DATABASE_URL)
+// Если её нет (например, при локальном запуске), берем из appsettings.json
+var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL") 
+                       ?? builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(connectionString));
 
 builder.Services.AddHttpClient<IGiveawayService, IsThereAnyDealService>(client =>
 {
@@ -31,6 +35,24 @@ builder.Services.AddHttpClient<IGiveawayService, IsThereAnyDealService>(client =
 builder.Services.AddHttpClient<IEpicGamesService, EpicGamesService>();
 
 var app = builder.Build();
+
+// Автоматическое применение миграций при запуске
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<AppDbContext>();
+        Console.WriteLine("Applying migrations...");
+        context.Database.Migrate();
+        Console.WriteLine("✅ Migrations applied successfully!");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"❌ Migration error: {ex.Message}");
+        throw;
+    }
+}
 
 if (app.Environment.IsDevelopment())
 {
